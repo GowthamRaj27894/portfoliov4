@@ -1,0 +1,1 @@
+$('.backToTop').on('click',()=>$("html, body").animate({scrollTop: $(".about-me").offset().top}, 1000))
